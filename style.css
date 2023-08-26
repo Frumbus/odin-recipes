@@ -1,0 +1,23 @@
+.header {
+    font-family: "cambria";
+    color: red;
+}
+
+.header_milk {
+    color: aquamarine;
+    background-color: black;
+}
+
+.instructions,
+.ingredients {
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.button {
+    background-color: aquamarine;
+}
+
+.recipe_list {
+    font-size: 20px;
+}
