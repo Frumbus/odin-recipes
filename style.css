@@ -90,23 +90,23 @@ body {
 }
 
 .button_tie {
-    background-color: black;
-    color: red;
-}
-
-.button_tie:hover {
     background-color: red;
     color: black;
 }
 
+.button_tie:hover {
+    background-color: black;
+    color: red;
+}
+
 .button_jabba {
-    background-color: green;
-    color: black;
+    background-color: black;
+    color: green;
 }
 
 .button_jabba:hover {
-    background-color: black;
-    color: green;
+    background-color: green;
+    color: black;
 }
 
 @font-face {
