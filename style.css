@@ -1,5 +1,6 @@
 * {
     font-family: 'Star Wars Paragraph';
+    background-color: antiquewhite;
 }
 
 .header_1_index, 
@@ -20,6 +21,11 @@
 .header_milk {
     color: aquamarine;
     background-color: black;
+}
+
+.header_jabba {
+    color: black;
+    background-color: green;
 }
 
 .instructions,
@@ -91,6 +97,16 @@ body {
 .button_tie:hover {
     background-color: red;
     color: black;
+}
+
+.button_jabba {
+    background-color: green;
+    color: black;
+}
+
+.button_jabba:hover {
+    background-color: black;
+    color: green;
 }
 
 @font-face {
