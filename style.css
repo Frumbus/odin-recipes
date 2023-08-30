@@ -63,11 +63,9 @@ body {
     color: black;
 }
 
-.button_milk {
+.button_bottom {
     display: inline-block;
     font-size: 30px;
-    background-color: aquamarine;
-    color: black;
     padding: 15px;
     border-radius: 5px;
     text-decoration: none;
@@ -75,9 +73,24 @@ body {
     margin-bottom: 50px;
 }
 
+.button_milk {
+    background-color: aquamarine;
+    color: black;
+}
+
 .button_milk:hover {
     background-color: black;
     color: aquamarine;
+}
+
+.button_tie {
+    background-color: black;
+    color: red;
+}
+
+.button_tie:hover {
+    background-color: red;
+    color: black;
 }
 
 @font-face {
@@ -89,3 +102,9 @@ body {
     font-family: 'Star Wars Header';
     src: url(./Fonts/Starjout.ttf);
 }
+
+.header_tie {
+    background-color: black;
+    color: red;
+}
+
